@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\GoldBadgeFinals\Badge_Tracker2000\BadgeManager\bin\Debug\BadgeManager.exe.config
+C:\ElevenFiftyProjects\GoldBadgeFinals\Badge_Tracker2000\BadgeManager\bin\Debug\BadgeManager.exe
+C:\ElevenFiftyProjects\GoldBadgeFinals\Badge_Tracker2000\BadgeManager\bin\Debug\BadgeManager.pdb
+C:\ElevenFiftyProjects\GoldBadgeFinals\Badge_Tracker2000\BadgeManager\obj\Debug\BadgeManager.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeFinals\Badge_Tracker2000\BadgeManager\obj\Debug\BadgeManager.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeFinals\Badge_Tracker2000\BadgeManager\obj\Debug\BadgeManager.exe
+C:\ElevenFiftyProjects\GoldBadgeFinals\Badge_Tracker2000\BadgeManager\obj\Debug\BadgeManager.pdb
